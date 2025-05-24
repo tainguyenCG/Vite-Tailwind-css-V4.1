@@ -1,8 +1,8 @@
 ## Vite + Tailwind css V4.1
-yarn create vite .
-yarn
-yarn dev
-npm install tailwindcss @tailwindcss/vite
+ - yarn create vite .
+ - yarn
+ - yarn dev
+ - npm install tailwindcss @tailwindcss/vite
 ## vite.config.js
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
