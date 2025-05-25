@@ -14,5 +14,5 @@ export default defineConfig({
 @import "tailwindcss";
 ## Thư viện cần cài
  - yarn add react-router-dom
-# API endpoint chính(.env)
+## API endpoint chính(.env)
  - VITE_API_URL=https://api.example.com
